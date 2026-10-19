@@ -1,0 +1,14 @@
+## Build
+bin/
+obj/
+publish/
+.vs/
+*.user
+*.suo
+
+## Log của ứng dụng
+Logs/
+
+## File cấu hình chứa mật khẩu / thông tin riêng từng máy (dùng appsettings.example.json làm mẫu)
+appsettings.json
+appsettings.Development.json
